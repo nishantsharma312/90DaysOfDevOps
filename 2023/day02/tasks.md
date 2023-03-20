@@ -1,4 +1,4 @@
-Day 2 Task: Basics linux command
+Day 2 Task: Basic linux commands
 
 Task: What is the linux command to 
 1. Check your present working directory.
