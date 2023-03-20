@@ -8,3 +8,7 @@
 
 3. Create a nested directory A/B/C/D/E
 -> mkdir -p A/B/C/D/E
+
+
+
+![Day02 task](https://user-images.githubusercontent.com/77112379/226434625-b31de14b-908f-4979-9a6e-2eee489b59e6.jpg)
