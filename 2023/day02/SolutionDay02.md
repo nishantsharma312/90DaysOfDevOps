@@ -1,4 +1,4 @@
-##Task Day 02: What are the linux commands to do the following :-
+# Task Day 02: What are the linux commands to do the following :-
 
 1. Check your present working directory.
 -> pwd
