@@ -7,7 +7,7 @@
     ![1](https://user-images.githubusercontent.com/77112379/228566539-10b876ed-8532-4ca4-868f-670d0f5ce94d.jpg)
     ![2](https://user-images.githubusercontent.com/77112379/228566551-a3e2874c-a072-4776-88ee-2863142d1461.jpg)
 
-- Switch to dev branch and add and commit this file.
+- Switch to `dev` branch and add and commit this file.
 
     ![3](https://user-images.githubusercontent.com/77112379/228567416-90d13632-c3f7-4918-9769-db322a1189a8.jpg)
     ![4](https://user-images.githubusercontent.com/77112379/228567433-aafb6d49-a297-416d-93cc-a392a424460f.jpg)
@@ -45,7 +45,7 @@
 
      ![11](https://user-images.githubusercontent.com/77112379/228583540-4603ce1a-0925-455e-b758-3573185ebed8.jpg)
 
-- Add some changes to `dev` branch and merge that branch in `master`.
+- Add some changes to `dev` branch and merge that branch in `master`
 
      ![12](https://user-images.githubusercontent.com/77112379/228586742-365bcddd-d279-472a-ba7a-08cf6a6ea465.jpg)
 
