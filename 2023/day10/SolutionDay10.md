@@ -33,7 +33,7 @@
      
      ![8](https://user-images.githubusercontent.com/77112379/228575205-280a0a14-0b07-469e-968a-4467906ea8ab.jpg)
      
-     Commits in GitHub :
+     ### Commits in GitHub :
      
      ![9](https://user-images.githubusercontent.com/77112379/228575217-09c6775c-d449-4feb-abfb-e98302cf5719.jpg)
      
