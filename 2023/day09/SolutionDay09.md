@@ -5,5 +5,9 @@ Blog on Hashnode : https://nishantsharma.hashnode.dev/some-questions-about-gitgi
 ### Tasks 
 
 - Set your user name and email address, which will be associated with your commits.
+  
+  ![1](https://user-images.githubusercontent.com/77112379/228461090-604ad173-c66a-4b79-b0b9-38448686fba9.jpg)
 
+- Create a repository named "Devops" on GitHub.
 
+  
