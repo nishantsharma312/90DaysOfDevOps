@@ -12,7 +12,7 @@
     
     ![2](https://user-images.githubusercontent.com/77112379/228458359-46b7cf91-a711-48fb-9d82-8a8729f0f1bd.jpg)
     
-    Cloneing repo onto local machine using git bash
+    Cloneing repo onto local machine using clone command in gitbash
     
     ![3](https://user-images.githubusercontent.com/77112379/228458684-f3904e26-4e17-49b1-8441-7f5b9e7e52e7.jpg)
 
