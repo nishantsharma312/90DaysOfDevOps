@@ -1,6 +1,6 @@
 # Day 18 Task: Docker for DevOps
 
-## To run Docker commands without sudo use the below command :
+### To run Docker commands without sudo use the below command :
 `sudo usermod -aG docker $USER`
 
 [![HkQSxxS.md.png](https://iili.io/HkQSxxS.md.png)](https://freeimage.host/i/HkQSxxS)
