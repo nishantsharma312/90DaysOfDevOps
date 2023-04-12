@@ -35,5 +35,31 @@
   [![HvH6DMX.md.png](https://iili.io/HvH6DMX.md.png)](https://freeimage.host/i/HvH6DMX)
   
   
+## Task-2 (Docker volumes)
+
+- Creating Docker volumes
+
+  [![HvJ2gvp.md.png](https://iili.io/HvJ2gvp.md.png)](https://freeimage.host/i/HvJ2gvp)
   
+- Mounting volume to a container.
+
+  [![HvJ39uS.md.png](https://iili.io/HvJ39uS.md.png)](https://freeimage.host/i/HvJ39uS)
+  
+- Verify using exec command that volume is connected.
+
+  [![HvJ3oAB.md.png](https://iili.io/HvJ3oAB.md.png)](https://freeimage.host/i/HvJ3oAB)
+  
+- Use the docker volume ls command to list all volumes and docker volume rm command to remove the volume when you're done.
+
+  1. `docker volume ls`
+ 
+     [![HvJFogf.md.png](https://iili.io/HvJFogf.md.png)](https://freeimage.host/i/HvJFogf)
+ 
+  2. `docker volume rm <container ID>`
+
+     [![HvJFTe2.md.png](https://iili.io/HvJFTe2.md.png)](https://freeimage.host/i/HvJFTe2)
+     
+- we can also add volumes in docker-compose.yaml file.
+
+   [![HvJFSmN.md.png](https://iili.io/HvJFSmN.md.png)](https://freeimage.host/i/HvJFSmN)
   
