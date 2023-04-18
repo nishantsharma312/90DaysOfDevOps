@@ -15,6 +15,8 @@
 
   [![HvUFoFe.md.png](https://iili.io/HvUFoFe.md.png)](https://freeimage.host/i/HvUFoFe)
   
+- Console output.
+  
   [![HvUFT9j.md.png](https://iili.io/HvUFT9j.md.png)](https://freeimage.host/i/HvUFT9j)
 
 
@@ -22,9 +24,11 @@
 
   [![HvUFRtV.md.png](https://iili.io/HvUFRtV.md.png)](https://freeimage.host/i/HvUFRtV)
   
+- Console output.
+  
   [![HvUFlKF.md.png](https://iili.io/HvUFlKF.md.png)](https://freeimage.host/i/HvUFlKF)
   
-- Project running.
+- Project running on port 8000.
 
   [![HvUKRJs.md.png](https://iili.io/HvUKRJs.md.png)](https://freeimage.host/i/HvUKRJs)
 
@@ -35,11 +39,15 @@
 
   [![HvUKczl.md.png](https://iili.io/HvUKczl.md.png)](https://freeimage.host/i/HvUKczl)
   
+- Console output.
+  
   [![HvUKEq7.md.png](https://iili.io/HvUKEq7.md.png)](https://freeimage.host/i/HvUKEq7)
 
 - Set up a cleanup step in the Jenkins project to run "docker-compose down" command to stop and remove the containers defined in the compose file.
 
   [![HvUKhej.md.png](https://iili.io/HvUKhej.md.png)](https://freeimage.host/i/HvUKhej)
+  
+- Console output.
   
   [![HvUKOXV.md.png](https://iili.io/HvUKOXV.md.png)](https://freeimage.host/i/HvUKOXV)
   
