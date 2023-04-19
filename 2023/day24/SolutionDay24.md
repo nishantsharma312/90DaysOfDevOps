@@ -20,11 +20,16 @@
   
   ![6](https://user-images.githubusercontent.com/77112379/233141083-fcafee74-9743-47e5-8e83-e2d4f6693a5b.png)
   
+- docker-compose.yml file.
+
+  ![Screenshot from 2023-04-19 22-16-18](https://user-images.githubusercontent.com/77112379/233144842-235ccdca-664f-4139-82b0-1533b2dcb90e.png)
+
 - Add build steps in Execute shell.
 
   ![7](https://user-images.githubusercontent.com/77112379/233141328-2439afce-6970-41f1-beb0-c0fd412670b6.png)
 
-- We are done! Now if any change is committed in our repository our project will be automatically updated. No need to manually run **build now** option as we did in delivery tasks on day23.
+- We are done! Now if any change is committed in our repository our project will be automatically updated. No need to manually run **build now** 
+  option as  we did in delivery tasks on day23.
 
   ![8](https://user-images.githubusercontent.com/77112379/233142792-544f9fed-b166-41d9-a63f-06578871dbd4.png)
 
